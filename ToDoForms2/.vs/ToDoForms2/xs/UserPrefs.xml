@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{EDAADA04-F0B4-4654-AB67-342B4D35D4DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoForms2/ListaTareas.xaml.cs">
+    <Files>
+      <File FileName="ToDoForms2/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="ToDoForms2.Android/MainActivity.cs" Line="9" Column="11" />
+      <File FileName="ToDoForms2.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ToDoForms2/NuevoItem.xaml.cs" Line="1" Column="1" />
+      <File FileName="ToDoForms2/ListaTareas.xaml" Line="18" Column="1" />
+      <File FileName="ToDoForms2/ListaTareas.xaml.cs" Line="22" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToDoForms2" expanded="True">
+            <Node name="ToDoForms2" expanded="True">
+              <Node name="Clases" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ListaTareas.xaml" expanded="True">
+                <Node name="ListaTareas.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ToDoForms2.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ToDoForms2.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ToDoForms2 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
